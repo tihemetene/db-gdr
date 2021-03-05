@@ -26,13 +26,25 @@
       "id": 5
     }
   ],
+  "user": [
+    {
+      "id": 1,
+      "login": "teste@hotmail.com",
+      "senha": "abcde"
+    },
+    {
+      "id": 2,
+      "login": "teste2@hotmail.com",
+      "senha": "abcde"
+    }
+  ],
   "comments": [
     {
       "id": 1,
       "body": "some comment",
       "postId": 1
     }
-  ],
+  ],  
   "profile": {
     "name": "typicode"
   },
